@@ -50,8 +50,3 @@ Then scan the QR code with Expo Go (Android/iOS) or press `w` for web preview.
 - Top Brands and Nearby Stores tabs are left blank per the explicit instruction in
   the assignment brief.
 
-## Submission checklist
-
-- [ ] Push this repo to GitHub (public or add the evaluator as a collaborator).
-- [ ] Fill the submission form: https://forms.gle/WZYqNEAJZPXonLk88
-- [ ] Deadline: **8th September 2026**.
